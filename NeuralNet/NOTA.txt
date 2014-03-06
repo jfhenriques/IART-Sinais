@@ -1,0 +1,10 @@
+
+	
+
+	NOTA:
+
+	O Entry point do programa é a classe "SelectorPanel.java"
+	presente na package: "com.nn.gui"
+
+	- Não é sabido se é necessário o plug-in Window builder estar configurado para o programa ser carregado,
+	  mas em princípio deve correr mesmo sem o plugin.
